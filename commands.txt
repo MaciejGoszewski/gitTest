@@ -1,0 +1,12 @@
+git clone + html - download project 
+
+git status - status update, decide
+
+git add -A - adds all files 
+
+git commint -m "message" - commits with message
+
+git branch - list of branches
+
+git branch "name" - creates new branch
+
